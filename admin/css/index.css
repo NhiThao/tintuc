@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-weight: 300;
+    font-size: 17px;
+}
+.navbar-inverse {
+    background-color: #3482d0;
+
+    border: none;
+    border-radius: 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
